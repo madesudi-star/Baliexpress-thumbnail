@@ -1,0 +1,8 @@
+{
+  "name": "Baliexpress - BE-CC001",
+  "description": "A professional generator for high-impact Facebook news thumbnails (1080x1350, 4:5 portrait) with custom headline banners, gradients, and photo compositing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
